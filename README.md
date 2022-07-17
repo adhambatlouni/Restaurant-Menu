@@ -4,4 +4,4 @@ This website is a restaurant menu project.
 
 Scan QR code to see the menu items.
 
-![QR Code](C:\Users\OMEN\Desktop\Web development projects\Menu\QR Code.png)
+![QR Code](./QR%20Code.png)
